@@ -1,0 +1,22 @@
+h1{
+    font-size: larger;
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+
+label{
+    color: white;
+    font-size: large;
+}
+
+input{
+    width: 50%;
+}
+canvas{
+    box-shadow: 5px 10px white 7px;
+}
+
+
+
